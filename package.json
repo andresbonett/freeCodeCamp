@@ -106,5 +106,13 @@
     "hooks": {
       "pre-commit": "lint-staged"
     }
+  },
+  "dependencies": {
+    "@freecodecamp/challenge-md-parser": "^2.0.0",
+    "mongodb": "^3.5.7",
+    "nodemon": "^2.0.3",
+    "smee-client": "^1.1.0",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
   }
 }
